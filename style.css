@@ -1,0 +1,47 @@
+.container {
+  position: relative;
+}
+
+.image3 {
+    width: 900px;
+    height: 400px;
+}
+
+.image1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.image2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.image4 {
+      width: 500px;
+  height: 400px;
+margin-top: 50px;
+margin-left: 25px;
+}
+
+.color {
+    display: block;
+    float: left;
+    margin-top: 250px;
+    height: 100px;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.color2 {
+             display:block;
+         position:absolute;
+             float: left;
+    margin-top: 290px;
+        margin-right: 10px;
+        margin-left: 35px;
+        color: white;
+        font-size: 13px;
+}
